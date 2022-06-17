@@ -1,2 +1,2 @@
 # Bostrum Simulation
-An attempt to make a self sustaining simulation. (Currently in Alpha Stage)
+An attempt to make a self-learning,neural network simulation. (Currently in Alpha Stage)
