@@ -1,4 +1,4 @@
-chmod +x nixmaker.sh
-./nixmaker.sh
+chmod +x nixstarter.sh
+./nixstarter.sh
 chmod +x main.sh
 ./main.sh
